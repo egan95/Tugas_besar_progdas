@@ -499,7 +499,7 @@ void sort_nip(int n, s_pegawai data_pegawai[50]) {
 }
 
 //procedure sort gaji
-void sort_gaji(int n, s_pegawai data_pegawai[50]) { //masih eror
+void sort_gaji(int n, s_pegawai data_pegawai[50]) {
 	int i,k;
 	char temp[12];
 	int temp1;
